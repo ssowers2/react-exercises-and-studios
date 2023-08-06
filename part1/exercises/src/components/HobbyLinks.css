@@ -1,0 +1,12 @@
+.hobbyText {
+    color: hotpink;
+    font-size: 18pt;
+    text-align: center;
+ }
+ 
+ .hobbyHeading {
+   align-items: center;
+   text-align: center;
+    font-size: 22pt;
+    color: rgb(164, 26, 95);
+ }

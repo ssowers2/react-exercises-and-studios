@@ -1,7 +1,12 @@
 .choresText {
-   color: black;
+   font-family:'Verdana';
+   font-size: 18pt;
+   color: rgb(126, 70, 205);
+   font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+   text-decoration: underline;
+   color: rgb(81, 9, 182);
+   font-size: 22pt;
 }
